@@ -1,0 +1,5 @@
+{
+  "TELEGRAM_BOT_TOKEN": "",
+  "LISTEN": ":9999",
+  "TELEGRAM_CHAT_ID": ""
+}
